@@ -1,6 +1,6 @@
 # [Data Talks Club] GitOps for ML: Converting Notebooks to Reproducible Pipelines
 
-In this hands-on workshop, we’ll take a prototype in a Jupyter Notebook and
+In this hands-on workshop we’ll take a prototype in a Jupyter Notebook and
 transform it into a DVC pipeline. We’ll then use that pipeline locally to run
 and compare a few experiments. Lastly, we’ll explore how CML will allow us to
 take our model training online. We’ll use it in conjunction with GitHub Actions
